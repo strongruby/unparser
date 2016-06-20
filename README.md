@@ -1,7 +1,7 @@
 unparser
 ========
 
-[![Build Status](https://secure.travis-ci.org/mbj/unparser.png?branch=master)](http://travis-ci.org/mbj/unparser)
+[![Build Status](https://secure.travis-ci.org/strongruby/unparser.png?branch=strongruby)](http://travis-ci.org/strongruby/unparser)
 [![Dependency Status](https://gemnasium.com/mbj/unparser.png)](https://gemnasium.com/mbj/unparser)
 [![Code Climate](https://codeclimate.com/github/mbj/unparser.png)](https://codeclimate.com/github/mbj/unparser)
 [![Gem Version](https://img.shields.io/gem/v/unparser.svg)](https://rubygems.org/gems/unparser)
